@@ -1,0 +1,5 @@
+requests
+httpx
+crypto
+pyaesm
+urllib3
