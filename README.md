@@ -47,8 +47,7 @@ This project is intended for **educational purposes only**. Use responsibly and 
 
 ## 🌟 Contributing
 
-Contributions are welcome! Feel free to fork and submit pull requests. Join our Discord community for discussions and support:
-[![Discord](https://img.shields.io/discord/yourdiscordid.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/yourdiscordinvite)
+Contributions are welcome! Feel free to fork and submit pull requests.
 
 ---
 
@@ -56,11 +55,6 @@ Contributions are welcome! Feel free to fork and submit pull requests. Join our 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-## 🚀 Get Started Now
-
-Ready to boost your Discord server? Clone this repository and follow the setup instructions!
 
 ---
 
