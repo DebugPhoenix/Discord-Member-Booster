@@ -1,26 +1,69 @@
-# Discord account creator 🪐
-This tool is for verifying your unclaimed Discord tokens by email without any flags and with valid emails! It has captcha support and optional proxy scraper for people who can't afford proxies.
+<h1 align="center">🚀 Discord Member Booster</h1>
+
+<p align="center">
+    <em>Boost your Discord server members effortlessly! Featuring powerful tools and an intuitive interface.</em>
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
+    <img src="https://img.shields.io/github/stars/DebugPhoenix/Discord-Member-Booster-" alt="Stars">
+    <img src="https://img.shields.io/github/forks/DebugPhoenix/Discord-Member-Booster-" alt="Forks">
+</p>
+
+---
 
 ## 🔥 Features
-- Fully Requests Based Claimer
-- Unflagged Claimer
-- Capsolver & Hotmailbox Support
-- Auto Proxy Scraper (Optional)
-- Can Verify Locked Tokens
-- Fast & Easy To Setup
-- Slick UI
 
-## ✍️  Usage
-1. Edit `proxies.txt` file and set your proxies
-   
-2. Edit `config.json` with your custom settings
+- **Member Boosting Made Easy**
+- **Customizable Member Attributes**
+- **Activity Simulation**
+- **Proxy Support**
+- **Secure & Reliable**
+- **Interactive Dashboard**
+- **Community-Driven**
 
-3. Open `installer.bat` and enjoy!  :)
+---
 
-## ⚠️ DISCLAIMER / NOTES
-This github repo is for EDUCATIONAL PURPOSES ONLY. I am NOT under any responsibility if a problem occurs.
+## ✍️ Usage
 
-## ✨ Issues /  Doubts
+1. **Setup**
+   - Configure your server settings in `config.json`.
+   - Customize boost options and proxies in `settings.yaml`.
 
-- If you have any questions do not hesitate to enter my discord: https://discord.gg/2Mqv9JYN
-- Or if you have any error do not forget to report it in: [issues](https://github.com/Salamon121/Discord-Account-Creator/issues/new)
+2. **Installation**
+   - Run `installer.bat` to set up dependencies.
+   - Start boosting members by executing `run.py`.
+
+3. **Enjoy Boosting!**
+   - Sit back and watch your server grow! 🌟
+
+---
+
+## ⚠️ Disclaimer
+
+This project is intended for **educational purposes only**. Use responsibly and respect Discord's Terms of Service.
+
+---
+
+## 🌟 Contributing
+
+Contributions are welcome! Feel free to fork and submit pull requests. Join our Discord community for discussions and support:
+[![Discord](https://img.shields.io/discord/yourdiscordid.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/yourdiscordinvite)
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🚀 Get Started Now
+
+Ready to boost your Discord server? Clone this repository and follow the setup instructions!
+
+---
+
+<p align="center">
+    Made with ❤️ by DebugPhoenix
+</p>
