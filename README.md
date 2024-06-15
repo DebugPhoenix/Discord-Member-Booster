@@ -24,7 +24,7 @@
 
 ---
 
-## ✍️ Usage
+## ✍️  Usage
 
 1. **Setup**
    - Configure your server settings in `config.json`.
