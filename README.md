@@ -12,7 +12,7 @@
 
 ---
 
-## 🔥 Features
+## 🔥  Features
 
 - **Member Boosting Made Easy**
 - **Customizable Member Attributes**
