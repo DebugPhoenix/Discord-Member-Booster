@@ -1,4 +1,5 @@
-<h1 align="center">🚀 Discord Member Booster</h1>
+<h1 align="center">🚀 Discord Member Booster (NOT WORKING)</h1>
+<h1 align="center">🚀 BUY WORKING ONE https://rush.sellsn.io/)</h1>
 
 <p align="center">
     <em>Boost your Discord server members effortlessly! Featuring powerful tools and an intuitive interface.</em>
