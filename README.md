@@ -15,7 +15,7 @@
 
 ## 🔥  Features
 
-- **Member Boosting Made Easy**
+- **Member Boosting Made Easy **
 - **Customizable Member Attributes**
 - **Activity Simulation**
 - **Proxy Support**
